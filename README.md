@@ -1,3 +1,3 @@
-# KVStore
+# Consistent hash
 
-A simple KV Store using consistent hasing 
+
